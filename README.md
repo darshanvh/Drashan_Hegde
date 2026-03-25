@@ -9,9 +9,6 @@ The website is fully responsive and designed using modern web technologies.
 
 ## 🚀 Features
 
-
-
-
 * 👤 Personal Introduction
 * 📄 About Me Section
 * 💻 Skills & Technologies
