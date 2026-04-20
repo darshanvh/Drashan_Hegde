@@ -6,7 +6,6 @@ This is a **Personal Portfolio Website** developed to showcase my skills, projec
 The website is fully responsive and designed using modern web technologies.
 
 ---
-
 ## 🚀 Features
 
 * 👤 Personal Introduction
